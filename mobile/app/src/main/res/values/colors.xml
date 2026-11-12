@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Theme Colors (Matching UI picture: Header Purple/Indigo) -->
+    <color name="purple_primary">#4F39F6</color>
+    <color name="purple_primary_dark">#3B27C8</color>
+    <color name="purple_accent">#E91E63</color>
+    <color name="fab_pink">#FF2A6D</color>
+
+    <!-- Action Colors -->
+    <color name="edit_blue">#1976D2</color>
+    <color name="delete_red">#D32F2F</color>
+
+    <!-- Neutral Colors -->
+    <color name="bg_light">#F5F7FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1D2129</color>
+    <color name="text_secondary">#788090</color>
+    <color name="divider_color">#E4E7ED</color>
+
+    <!-- Category Default Colors -->
+    <color name="cat_yellow">#FFC107</color>
+    <color name="cat_green">#4CAF50</color>
+    <color name="cat_blue">#2196F3</color>
+    <color name="cat_purple">#9C27B0</color>
+    <color name="cat_orange">#FF9800</color>
+    <color name="cat_teal">#009688</color>
+</resources>
